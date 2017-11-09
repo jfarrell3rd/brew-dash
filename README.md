@@ -1,2 +1,0 @@
-# brew-dash
-Brew-Dash
